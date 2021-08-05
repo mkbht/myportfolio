@@ -37,6 +37,20 @@ body {
   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
 }
 
+.portfolio-card {
+  padding: 0;
+  margin-bottom: 40px;
+  text-align: center;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.bg-blue {
+  background: #3c36e7;
+  color: #fff;
+}
+
 .service-icon {
   font-size: 50px;
 }
