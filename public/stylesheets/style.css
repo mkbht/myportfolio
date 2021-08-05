@@ -37,6 +37,15 @@ body {
   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
 }
 
+.service-icon {
+  font-size: 50px;
+}
+
+.mdi-18px { font-size: 18px; }
+.mdi-24px { font-size: 24px; }
+.mdi-36px { font-size: 36px; }
+.mdi-48px { font-size: 48px; }
+
 .btn-circled {
   border-radius: 50px;
 }
